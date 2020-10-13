@@ -1,7 +1,7 @@
-#What did I learn
+# What did I learn
 
-##Created SVG animation using stroke dash array and stroke dash offset 
-###shapes and texts with Figma
+* Created SVG animation using stroke dash array and stroke dash offset 
+* Shapes and texts with Figma
 
 
 
